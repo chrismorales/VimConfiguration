@@ -1,6 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/home/skynet/.vim'
-let g:netrw_dirhist_2='/home/skynet/.vim/bundle'
-let g:netrw_dirhist_3='/home/skynet/Web App Projects/indiemanga/indiemanga'
-let g:netrw_dirhist_4='/home/skynet/.vim/bundle/python-mode/autoload/pymode'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/skynet/Web App Projects/mathworksheet/mathsheetcreator/mathsheetcreator/templates'
+let g:netrw_dirhist_2='/home/skynet/Web App Projects/mathworksheet/mathsheetcreator/mathsheetcreator'
+let g:netrw_dirhist_3='/home/skynet/.ssh'
+let g:netrw_dirhist_4='/home/skynet'
+let g:netrw_dirhist_5='/home/skynet/Web App Projects/mathworksheet/alembic'
+let g:netrw_dirhist_6='/home/skynet/Web App Projects/mathworksheet/mathsheetcreator/templates'
+let g:netrw_dirhist_7='/home/skynet/Web App Projects/mathworksheet/mathsheetcreator'
+let g:netrw_dirhist_8='/home/skynet/Web App Projects/mscenv'
+let g:netrw_dirhist_9='/home/skynet/Web App Projects'
